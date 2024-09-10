@@ -1,5 +1,7 @@
 # Power BI Ecommerce Sales Dashboard
 
+![Ecommerce Sales Dashboard](https://i.imgur.com/p2I7cXT.png)
+
 - **Developed an interactive dashboard** to monitor and analyze online sales data, providing actionable insights for stakeholders.
 - **Implemented dynamic filters and slicers**, allowing users to customize data views and drill down into specific metrics.
 - **Created complex data connections and table joins** to unify multiple datasets, facilitating seamless exploration and comparison.
